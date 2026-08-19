@@ -1,0 +1,15 @@
+{
+  "name": "babylonjs",
+  "version": "1.0.0",
+  "description": "BabylonJS B-World Exploration",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babylonjs/lite": "^1.23.0"
+  }
+}
